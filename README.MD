@@ -1,5 +1,6 @@
 # OI（Olympiad in Informatics）介绍
-
+## Fork from
+[https://github.com/CannedGrape/oi](https://github.com/CannedGrape/oi)
 ## IOI
 
 * 收录了1994~2002年的试题与解析。
