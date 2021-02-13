@@ -25,4 +25,5 @@
 * 全部内容搜集自网络，仅供个人学习参考用，不得他用。
 * 若有侵权，请联系我删除。
 
-
+# Tesseract OCR
+tesseract file output -l chi_sim
