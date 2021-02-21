@@ -27,4 +27,7 @@
 * 若有侵权，请联系我删除。
 
 # Tesseract OCR
-tesseract file output -l chi_sim
+1. Use (PDF to PNG)[https://pdf2png.com/] convert to to png
+2. Use Tesseract OCR
+C:\>tesseract file output -l chi_sim
+
